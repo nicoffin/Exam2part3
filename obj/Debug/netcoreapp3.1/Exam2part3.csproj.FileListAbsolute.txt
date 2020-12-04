@@ -1,0 +1,13 @@
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.AssemblyInfo.cs
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.exe
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.deps.json
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.runtimeconfig.json
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.runtimeconfig.dev.json
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.dll
+C:\Users\Noah\source\repos\Exam2part3\bin\Debug\netcoreapp3.1\Exam2part3.pdb
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.dll
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.pdb
+C:\Users\Noah\source\repos\Exam2part3\obj\Debug\netcoreapp3.1\Exam2part3.genruntimeconfig.cache
